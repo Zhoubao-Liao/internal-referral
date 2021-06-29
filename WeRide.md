@@ -85,4 +85,4 @@ https://app.mokahr.com/recommendation-apply/jingchi/2139?recommendCode=AGIzC#/jo
 **每月团建基金，吃喝玩乐！！！**
 
 ## 写在最后
-### 假如你想在自动驾驶行业深耕，想闯出一番事业，相信我，选择Weride，绝对是个好选择。
+### 假如你想在自动驾驶行业深耕，想闯出一番事业，相信我，选择WeRide，绝对是个好选择。
