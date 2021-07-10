@@ -28,6 +28,7 @@ https://www.bilibili.com/video/BV1m64y197Rz
    * 优秀准毕业生（ 大四/研三 毕业生求内部推荐已经比较晚了，校园招聘一般在大三 / 研二就锁定绝大部分人选） 
    * 工作两年以上的优秀程序员  / 硬件类工程师 （一年内的一般不接受，对于公司的梯队建设来说，社会招聘编制是期望能招聘到更有经验的员工）
    * **ACM, World Final/ IOI 背景大大大加分**
+   (PS: 实习生也有招，但是需要能够长期实习的同学才有可能录用)
 
 ## 岗位需求
 公司已公布C轮融资情况，资金充裕，大量自动驾驶核心研发和算法岗位Open，北上广深武汉南京郑州，地点任挑！
@@ -38,6 +39,7 @@ https://www.weride.ai/career
 ## 内推方式
 ### 方式一
 发送简历邮件到内推邮箱 zhoubao.liao@weride.ai, 简历命名：投递岗位名字+实习/校招/社招+名字
+### (PS: 推荐使用方式一）
 
 ### 方式二
 #### 通过内推链接直接投递简历
@@ -46,8 +48,6 @@ https://app.mokahr.com/campus_apply/jingchi/2137?recommendCode=AGIzC#/jobs
 
 社招
 https://app.mokahr.com/recommendation-apply/jingchi/2139?recommendCode=AGIzC#/jobs
-
-内推码：AGIzC
 
 ### 已投递的同学们，请评论回复一下：姓名拼音首字母+岗位+地点，如WYR+数据分析工程师+广州~确保简历成功投递及便于简历进度跟踪。
 
@@ -65,6 +65,28 @@ https://app.mokahr.com/recommendation-apply/jingchi/2139?recommendCode=AGIzC#/jo
 ### 面试篇
 面试流程一般在3~5轮，具体情况得看相应岗位。
 其中远程面试会有3-4轮，分两次。 
+
+### 相关帖子：
+
+[有哪些牛逼的简历模板？](https://www.zhihu.com/question/26265144/answer/376750276)
+
+有哪些牛逼的简历模板？
+
+纯干货 | 文远知行技术面试官教你拿 Offer ！
+
+文远知行 WeRide 校招笔试纯干货！！
+
+文远知行自动驾驶 算法一面，面试官超nice
+
+机器学习/强化学习高频面试题分类整理合集
+
+大家都是如何刷 LeetCode 的？
+
+leetcode题解，记录自己的leetcode解题之路
+
+用动画的形式呈现解LeetCode题目的思路
+
+LeetCode刷题记录与面试整理
 
 ## 进度查询
 通过内推投递的同学，请先静待一周。如果好多天没有进入下一轮也没有收到拒绝通知，或者手里有offer做决定比较着急，可以发邮件给我查询进度。 
