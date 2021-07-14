@@ -10,7 +10,7 @@ https://www.bilibili.com/video/BV1m64y197Rz
 
 我这边能够提供的就是WeRide的内推，对于提前参加校招的同学，内推能够帮助你的简历更早抵达HR手中，也就能提前安排面试，提前锁定Offer。
 
-除此之外，我还可以帮忙简历修改，和内推进度查询。
+### 除此之外，我还可以帮忙简历修改，和内推进度查询。
 
 当然啦，你也可以找我其他同事进行内推。他们也是特别特别棒的人。 
 
@@ -39,7 +39,7 @@ https://www.weride.ai/career
 
 ## 内推方式
 ### 方式一
-发送简历邮件到内推邮箱 zhoubao.liao@weride.ai, 简历命名：投递岗位名字+实习/校招/社招+名字
+发送简历邮件到内推邮箱 zhoubao.liao@weride.ai, 简历命名：投递岗位名字+实习/校招/社招+名字+地点
 ### (PS: 推荐使用方式一）
 
 ### 方式二
@@ -70,27 +70,19 @@ https://app.mokahr.com/recommendation-apply/jingchi/2139?recommendCode=AGIzC#/jo
 ### 相关帖子：
 
 [有哪些牛逼的简历模板？](https://www.zhihu.com/question/26265144/answer/376750276)
-
 [有哪些牛逼的简历模板？](https://www.zhihu.com/question/26265144/answer/442377149)
-
 [纯干货 | 文远知行技术面试官教你拿 Offer ！](https://www.nowcoder.com/discuss/225529)
-
 [文远知行 WeRide 校招笔试纯干货！！](https://www.nowcoder.com/discuss/218546)
-
 [文远知行自动驾驶 算法一面，面试官超nice](https://www.nowcoder.com/discuss/499150)
-
 [机器学习/强化学习高频面试题分类整理合集](https://www.nowcoder.com/discuss/610584)
-
 [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208/answer/824585814)
-
 [leetcode题解，记录自己的leetcode解题之路](https://github.com/azl397985856/leetcode)
-
 [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
-
 [LeetCode刷题记录与面试整理](https://github.com/yuanguangxin/LeetCode)
 
 ## 进度查询
-通过内推投递的同学，请先静待一周。如果好多天没有进入下一轮也没有收到拒绝通知，或者手里有offer做决定比较着急，可以发邮件给我查询进度。 
+通过内推进行投递的同学，可以点击 [这里](https://app.mokahr.com/m/candidate/applications/deliver-query/jingchi/) 进行查询。
+一般投递简历后，在10个自然日之内会有状态更新，请耐心等待。如果好多天没有进入下一轮也没有收到拒绝通知，或者手里有offer做决定比较着急，可以发邮件给我查询进度。
 
 ## 福利待遇
 **年假12天起步，不卡假，弹性上下班 !!!**
