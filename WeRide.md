@@ -4,7 +4,7 @@
 
 平时不起眼的点点积累，往往会出其不意，在关键时刻体现其蕴含的巨大能量。 
 
-https://www.bilibili.com/video/BV1m64y197Rz
+[2021年6月，广州新冠疫情之下，我们的无人小巴做到了！](https://www.bilibili.com/video/BV1m64y197Rz)
 
 对于应届毕业生来说，工作的第一家公司真的特别重要。因为你的第一份工作，确确实实能为你带来不同的起点，以及发挥的舞台。当然这并不是说，就一定要来WeRide。像华为，大疆，还有其他友商，都大胆去投去面，找自己喜欢的，适合自己的公司，绝对没毛病。
 
@@ -70,14 +70,23 @@ https://app.mokahr.com/recommendation-apply/jingchi/2139?recommendCode=AGIzC#/jo
 ### 相关帖子：
 
 [有哪些牛逼的简历模板？](https://www.zhihu.com/question/26265144/answer/376750276)
+
 [有哪些牛逼的简历模板？](https://www.zhihu.com/question/26265144/answer/442377149)
+
 [纯干货 | 文远知行技术面试官教你拿 Offer ！](https://www.nowcoder.com/discuss/225529)
+
 [文远知行 WeRide 校招笔试纯干货！！](https://www.nowcoder.com/discuss/218546)
+
 [文远知行自动驾驶 算法一面，面试官超nice](https://www.nowcoder.com/discuss/499150)
+
 [机器学习/强化学习高频面试题分类整理合集](https://www.nowcoder.com/discuss/610584)
+
 [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208/answer/824585814)
+
 [leetcode题解，记录自己的leetcode解题之路](https://github.com/azl397985856/leetcode)
+
 [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+
 [LeetCode刷题记录与面试整理](https://github.com/yuanguangxin/LeetCode)
 
 ## 进度查询
